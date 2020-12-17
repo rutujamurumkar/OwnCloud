@@ -29,6 +29,8 @@ Once the installation of owncloud is complete, you can start uploading files to 
 ## Add User Account
 1. To add user account, in the Owncloud server dashboard, click **Personal settings** drop-down in the right corner and select **Users**.
 2. In the **Users** menu, enter **Username**, **Password**. Add existing **User group** or create new group. Click **Create**.
+![create users-01](https://user-images.githubusercontent.com/76067033/102487734-0b5cd180-4091-11eb-8b46-a28c3d9e5a47.png)
+
 
 
 
