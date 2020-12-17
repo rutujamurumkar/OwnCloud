@@ -19,7 +19,8 @@ Windows supports earlier Owncloud versions under 8.9.x. You must install Xampp s
 
 ![xampp](https://user-images.githubusercontent.com/76067033/102471258-03923280-407b-11eb-8926-9441a486e1ef.png)
 
-6. Open browser and enter 
+6. To configure the server, open browser and enter server address link (for example, localhost:port_number).
+
 
 
 
