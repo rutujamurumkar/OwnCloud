@@ -48,7 +48,7 @@ Once the installation of Owncloud server is completed, you may start creating or
 4. Select your synchronization options as required or proceed with the recommended options. Click **Connect** to initiate connection to the Server. 
 ![Client config](https://user-images.githubusercontent.com/76067033/102492330-8b863580-4097-11eb-85a7-058d1d2a8da2.png)
 
-Your Owncloud client is now connected to the Owncloud server. You may now start sharing files.
+Your Owncloud client is now connected to the Owncloud server.
 ![server connection](https://user-images.githubusercontent.com/76067033/102497435-a6a87380-409e-11eb-9517-857254d2a036.png)
 ## References
 For more information, please visit Owncloud [Help Desk](https://central.owncloud.org/).
