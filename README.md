@@ -33,7 +33,8 @@ Once the installation of owncloud is complete, you can start uploading files to 
 
 ## Install Owncloud Client
 1. Download Owncloud [desktop client installer](https://owncloud.com/features/desktop-app/) from Owncloud official website.
-2. Install desktop client application using setup wizard.
+2. Install desktop client application using setup wizard.Click **Install** to initiate the installation.
+![install client](https://user-images.githubusercontent.com/76067033/102496637-aa87c600-409d-11eb-91ce-07619a736f8e.png)
 
 ### Connect Ownclient Client to the Server
 1. In the Owncloud client dashboard, Click **Add Account**.
