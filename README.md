@@ -15,11 +15,16 @@ Windows supports earlier Owncloud versions under 8.9.x. You must install Xampp s
 2. Extract Zip file and copy all the content from **Owncloud** folder.
 3. Open Xampp folder where you have configured it and search htdocs folder in it. 
 4. Copy Owncloud files in htdocs folder. 
-5. Open Xampp and start the **Apache** and **Mysql** services.</br>
+5. Open Xampp and start the **Apache** and **Mysql** services.
+
 ![xampp](https://user-images.githubusercontent.com/76067033/102471258-03923280-407b-11eb-8926-9441a486e1ef.png)
-6. To configure the server, open browser and enter server address link (for example, localhost:port_number). Enter **Username** and **Password**. Cick **Log in**.
+6. To enable the user to connect to the Owncloud server, open browser and enter server address link (for example, localhost:port_number). 
+
 ![server login_1](https://user-images.githubusercontent.com/76067033/102473519-8c11d280-407d-11eb-822a-8dcf2cd711f5.png)
-7. 
+7. Enter **Username** and **Password**. Cick **Finish setup**.
+
+## Getting Started
+
 
 
 
