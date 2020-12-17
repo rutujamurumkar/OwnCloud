@@ -46,7 +46,7 @@ Once the installation of owncloud is complete, you can start uploading files to 
 ![Client config](https://user-images.githubusercontent.com/76067033/102492330-8b863580-4097-11eb-85a7-058d1d2a8da2.png)
 
 You can see the server is connected to client.
-
+![server connection](https://user-images.githubusercontent.com/76067033/102497435-a6a87380-409e-11eb-9517-857254d2a036.png)
 ## References
 For more information, please visit Owncloud [Help Desk](https://central.owncloud.org/).
 
