@@ -33,7 +33,7 @@ Once the installation of Owncloud server is completed, you may start creating or
 3. This will add a new user to your Owncloud server.
 
 ## Install Owncloud Client
-1. Download Owncloud [desktop client installer](https://owncloud.com/features/desktop-app/) from Owncloud official website.
+1. Download Owncloud [desktop client installer](https://owncloud.com/desktop-app/) from Owncloud's official website.
 2. Install desktop client application using setup wizard. Choose default options on each step and Click **Next** to proceed.
 3. Click **Install** to initiate the installation.
 4. Click **Finish** to complete the installation.
