@@ -12,7 +12,7 @@ Windows supports earlier Owncloud versions under 8.9.x. You must install Xampp s
 ## Install Owncloud Server
 1. Download Zip from official [Owncloud website](https://owncloud.com/download-server/#instructions-server). 
 2. Extract Zip file and copy all the content from **owncloud** folder.
-3. Open xampp folder installed on your machine (usually C drive) and locate htdocs folder. 
+3. Open xampp folder installed on your machine (usually C drive) and locate **htdocs** folder. 
 ![copy files to htdocs](https://user-images.githubusercontent.com/76067033/102495253-e1f57300-409b-11eb-9ab1-a8a489349987.png)
 4. Paste Owncloud files copied in Step 2 into htdocs folder. 
 5. Open Xampp control panel and start the **Apache** and **Mysql** services.
@@ -42,7 +42,7 @@ Once the installation of Owncloud server is completed, you may start creating or
 ### Connect Ownclient Client to Server
 1. In the Owncloud client dashboard, Click **Add Account**.
 ![Client dashboard](https://user-images.githubusercontent.com/76067033/102490943-888a4580-4095-11eb-8373-860382ebe327.png)
-2. Enter **Server Address** (for example, host name:Port numer). Click **Next**.
+2. Enter **Server Address** (for example, http://hostname:portnumber). Click **Next**.
 ![Enter server address](https://user-images.githubusercontent.com/76067033/102491918-e8cdb700-4096-11eb-985b-4e0b5d27dccb.png)
 3. Enter **Username** and **Password** of the user created on Owncloud Server. Click **Next.**
 4. Select your synchronization options as required or proceed with the recommended options. Click **Connect** to initiate connection to the Server. 
