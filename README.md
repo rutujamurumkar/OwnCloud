@@ -1,3 +1,68 @@
+Owncloud is a open source file server. It makes file storage and sharing across multiple devices very easy.
+This manual explains Owncloud server installation and configuration procedure of Owncloud client and server in Windows.
+
+## Minimum System Requirements
+Windows supports earlier Owncloud versions under 8.9.x. Ypu m
++ Operating system - Windows 7 above
++ Xamp server - 
++ PHP version - 5.6.x above
++ Database - 
++ Browser - Chrome 66 above
+
+
+## Install Owncloud Server
+To install the Owncloud server, you must install Xamp
+1. Download Zip for Windows from official Owncloud website
+2. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/rutujamurumkar/OwnCloud/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
