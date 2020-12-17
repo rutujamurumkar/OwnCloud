@@ -38,6 +38,7 @@ Once the installation of owncloud is complete, you can start uploading files to 
 1. In the Owncloud client dashboard, Click **Add Account**.
 ![Client dashboard](https://user-images.githubusercontent.com/76067033/102490943-888a4580-4095-11eb-8373-860382ebe327.png)
 2. Enter **Server Address** (for example, host name:Port numer). Click **Next**.
+![Enter server address](https://user-images.githubusercontent.com/76067033/102491554-5e855300-4096-11eb-8a98-a07ce25b5003.png)
 3. Enter **Username** and **Password**. Click **Next.**
 4. Select your synchronization options. Click **Connect**. You can see the server is connected to client.
 
