@@ -1,5 +1,5 @@
-Owncloud is a open source file server. It makes file storage and sharing across multiple devices very easy.
-This manual explains Owncloud server installation and configuration procedure of Owncloud client and server in Windows.
+Owncloud is an open source file server. It makes file storage and sharing across multiple devices very easy.
+This manual provides detailed steps to install and configure Owncloud server and client applications
 
 ## Minimum System Requirements
 Windows supports earlier Owncloud versions under 8.9.x. You must install Xampp server for Windows configuration.
@@ -31,7 +31,12 @@ Once the installation of owncloud is complete, you can start uploading files to 
 2. In the **Users** menu, enter **Username**, **Password**. Add existing **User group** or create new group. Click **Create**.
 ![create users-01](https://user-images.githubusercontent.com/76067033/102487734-0b5cd180-4091-11eb-8b46-a28c3d9e5a47.png)
 
+## Install Owncloud Client
+1. Download Owncloud [desktop client installer](https://owncloud.com/features/desktop-app/) from Owncloud official website.
+2. Install desktop client application using setup wizard.
 
+## Connect Ownclient Client to Server
+1. Click **Add Account**.
 
 
 
@@ -80,40 +85,7 @@ Once the installation of owncloud is complete, you can start uploading files to 
 
 
 
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/rutujamurumkar/OwnCloud/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rutujamurumkar/OwnCloud/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
