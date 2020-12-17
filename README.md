@@ -2,7 +2,7 @@ Owncloud is a open source file server. It makes file storage and sharing across 
 This manual explains Owncloud server installation and configuration procedure of Owncloud client and server in Windows.
 
 ## Minimum System Requirements
-Windows supports earlier Owncloud versions under 8.9.x. Ypu m
+Windows supports earlier Owncloud versions under 8.9.x. You must install Xampp server for Windows configuration.
 + Operating system - Windows 7 above
 + Xamp server - 
 + PHP version - 5.6.x above
@@ -11,8 +11,7 @@ Windows supports earlier Owncloud versions under 8.9.x. Ypu m
 
 
 ## Install Owncloud Server
-To install the Owncloud server, you must install Xamp
-1. Download Zip for Windows from official Owncloud website
+1. Download Zip from official [Owncloud website](https://owncloud.com/download-server/#instructions-server).
 2. do
 
 
