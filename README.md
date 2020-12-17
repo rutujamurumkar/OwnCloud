@@ -17,11 +17,18 @@ Windows supports earlier Owncloud versions under 8.9.x. You must install Xampp s
 4. Copy Owncloud files in htdocs folder. 
 5. Open Xampp and start the **Apache** and **Mysql** services.
 ![xampp](https://user-images.githubusercontent.com/76067033/102471258-03923280-407b-11eb-8926-9441a486e1ef.png)
-6. To enable the user to connect to the Owncloud server, open browser and enter server address link (for example, localhost:port_number). 
+6. To enable the user to connect to the Owncloud server, open browser and enter server address link (for example, host name:port number). 
 ![server login_1](https://user-images.githubusercontent.com/76067033/102473519-8c11d280-407d-11eb-822a-8dcf2cd711f5.png)
 7. Enter **Username** and **Password**. Cick **Finish setup**.
 
 ## Getting Started
+
+Once the installation of owncloud is complete, you can start uploading files to the server.
+![Server dashboard-01](https://user-images.githubusercontent.com/76067033/102485551-caaf8900-408d-11eb-810c-6dd59d6677f4.png)
+
+## Add User Account
+1. To add user account, in the Owncloud server dashboard, click **Personal settings** drop-down in the right corner and select **Users**.
+2. In the **Users** menu, enter **Username**, **Password**. Add existing **User group** or create new group. Click **Create**.
 
 
 
