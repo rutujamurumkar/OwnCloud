@@ -41,54 +41,7 @@ Once the installation of owncloud is complete, you can start uploading files to 
 ![Enter server address](https://user-images.githubusercontent.com/76067033/102491918-e8cdb700-4096-11eb-985b-4e0b5d27dccb.png)
 3. Enter **Username** and **Password**. Click **Next.**
 4. Select your synchronization options. Click **Connect**. You can see the server is connected to client.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Client config](https://user-images.githubusercontent.com/76067033/102492330-8b863580-4097-11eb-85a7-058d1d2a8da2.png)
 
 
 
