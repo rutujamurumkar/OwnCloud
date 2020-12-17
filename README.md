@@ -13,7 +13,7 @@ Windows supports earlier Owncloud versions under 8.9.x. Ypu m
 ## Install Owncloud Server
 To install the Owncloud server, you must install Xamp
 1. Download Zip for Windows from official Owncloud website
-2. 
+2. do
 
 
 
