@@ -1,12 +1,11 @@
 Owncloud is an open source file server. It makes file storage and sharing across multiple devices very easy.
-This manual provides detailed steps to install and configure Owncloud server and client applications
+This manual provides detailed steps to install and configure Owncloud server and client application.
 
 ## Minimum System Requirements
 Windows supports earlier Owncloud versions under 8.9.x. You must install Xampp server for Windows configuration.
 + Operating system - Windows 7 above
-+ Xamp server - 
++ Xampp server - 
 + PHP version - 5.6.x above
-+ Database - 
 + Browser - Chrome 66 above
 
 
@@ -37,6 +36,9 @@ Once the installation of owncloud is complete, you can start uploading files to 
 
 ## Connect Ownclient Client to Server
 1. Click **Add Account**.
+2. Enter **Server Address** (for example, host name:Port numer). Click **Next**.
+3. Enter **Username** and **Password**. Click **Next.**
+4. Select your synchronization options. Click **Connect**. You can see the server is connected to client.
 
 
 
