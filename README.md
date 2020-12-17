@@ -47,5 +47,3 @@ Once the installation of owncloud is complete, you can start uploading files to 
 For additional information, please visit Owncloud [Help Desk](https://central.owncloud.org/).
 
 
-
-
